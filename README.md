@@ -9,6 +9,9 @@ The game features a point-based scoring system, raycast shooting mechanics, real
 <h3>Download the project </h3>
 The zipped file of the game is available at the link below. To access it, download the file and open the project using your Unity account.
 
+___
+
+
 [View game images and video on Google Drive](https://drive.google.com/drive/folders/12gwkUJnMsiQhGyrT9DPqc2rJW7cKGwsO?usp=sharing)
 
 [Download Hunting Reserve Game- zip file (Google Drive)](https://drive.google.com/file/d/1F0tdmJuk5AXoVByyBu4rME1ZnIq8N4-8/view?usp=sharing)
